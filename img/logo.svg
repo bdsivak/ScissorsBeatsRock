@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 256" fill="none" stroke="none">
+  <!--
+    Scissors Beats Rock — Logo Mark
+    The scissors' finger holes are vinyl records.
+    - Scissors = the game (the underdog — scissors doesn't beat rock, but we do it anyway)
+    - Vinyl records = "rock" music, played on turntables that spin "beats"
+    - Two tangent records touching at center = unity, a label bringing music together
+  -->
+
+  <!-- Right blade (drawn first = behind) -->
+  <path d="M92,110 C96,78 126,28 132,8 L138,10 C130,34 102,82 108,112Z" fill="currentColor"/>
+
+  <!-- Left blade (drawn second = on top, the "winning" cut) -->
+  <path d="M108,112 C104,82 74,34 68,10 L62,8 C70,28 98,78 92,110Z" fill="currentColor"/>
+
+  <!-- Pivot screw -->
+  <circle cx="100" cy="111" r="7" fill="currentColor"/>
+
+  <!-- Left handle arm (pivot to record) -->
+  <path d="M92,117 Q74,146 62,162" stroke="currentColor" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Right handle arm (pivot to record) -->
+  <path d="M108,117 Q126,146 138,162" stroke="currentColor" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- ─── Left Vinyl Record ─── -->
+  <!-- Outer rim -->
+  <circle cx="62" cy="198" r="38" stroke="currentColor" stroke-width="3"/>
+  <!-- Grooves -->
+  <circle cx="62" cy="198" r="35.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <circle cx="62" cy="198" r="33"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="62" cy="198" r="30.5" stroke="currentColor" stroke-width="1.2" opacity=".55"/>
+  <circle cx="62" cy="198" r="28"   stroke="currentColor" stroke-width="1.2" opacity=".4"/>
+  <circle cx="62" cy="198" r="25.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <circle cx="62" cy="198" r="23"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="62" cy="198" r="20.5" stroke="currentColor" stroke-width="1.2" opacity=".45"/>
+  <circle cx="62" cy="198" r="18"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="62" cy="198" r="16.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <!-- Label edge -->
+  <circle cx="62" cy="198" r="15" stroke="currentColor" stroke-width="1.8"/>
+  <!-- Spindle hole -->
+  <circle cx="62" cy="198" r="3.5" fill="currentColor"/>
+
+  <!-- ─── Right Vinyl Record ─── -->
+  <!-- Outer rim -->
+  <circle cx="138" cy="198" r="38" stroke="currentColor" stroke-width="3"/>
+  <!-- Grooves -->
+  <circle cx="138" cy="198" r="35.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <circle cx="138" cy="198" r="33"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="138" cy="198" r="30.5" stroke="currentColor" stroke-width="1.2" opacity=".55"/>
+  <circle cx="138" cy="198" r="28"   stroke="currentColor" stroke-width="1.2" opacity=".4"/>
+  <circle cx="138" cy="198" r="25.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <circle cx="138" cy="198" r="23"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="138" cy="198" r="20.5" stroke="currentColor" stroke-width="1.2" opacity=".45"/>
+  <circle cx="138" cy="198" r="18"   stroke="currentColor" stroke-width="1.2" opacity=".35"/>
+  <circle cx="138" cy="198" r="16.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+  <!-- Label edge -->
+  <circle cx="138" cy="198" r="15" stroke="currentColor" stroke-width="1.8"/>
+  <!-- Spindle hole -->
+  <circle cx="138" cy="198" r="3.5" fill="currentColor"/>
+</svg>
